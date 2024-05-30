@@ -1,9 +1,11 @@
 ## Bem-vindo(a) 😁
 
  <div>
-   <a href="https://github.com/Breadcrumbsgustavo-hsantos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-hsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-hsantos&layout=compact&langs_count=6&theme=algolia "/>
+   <a href="https://github.com/gustavo-hsantos">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-hsantos
+&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-hsantos
+&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,8 +16,8 @@
  
 <br>
  
-### Acesse
+### Acesse ⬇️
  
 <div> 
-  <a href="https://www.linkedin.com/in/gustavo-henrique-costa-2a64a1189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gustavo-henrique-costa-2a64a1189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
